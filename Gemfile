@@ -10,6 +10,7 @@ gem 'devise', '~> 4.2'
 gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'paperclip', '~> 5.1'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+gem 'searchkick', '~> 1.5'
 
 gem 'jquery-rails'
 gem 'turbolinks'
